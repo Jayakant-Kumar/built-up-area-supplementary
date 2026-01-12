@@ -18,6 +18,18 @@ Time-of-Flight (ToF) depth sensor. The main pipeline integrates Grounding DINO
 for building detection and the Segment Anything Model (SAM) for facade
 segmentation.
 
+## Quantitative Error Summary
+
+The following table summarizes the statistical error metrics for facade width and
+built-up area estimation, computed using tape-measured ground truth.
+
+| Error Metric | Estimated Width Error (%) | Estimated Built-Up Area Error (%) |
+|-------------|---------------------------|-----------------------------------|
+| Mean error (μₑ) | 2.054 | 3.240 |
+| Standard deviation (σₑ) | 1.327 | 2.237 |
+| Maximum error (eₘₐₓ) | 4.4 | 7.424 |
+
+
 ## Access
 The supplementary PDF can be accessed directly at:  
 https://jayakant-kumar.github.io/built-up-area-supplementary/supplementary_material.pdf
