@@ -23,8 +23,8 @@ segmentation.
 The following table summarizes the statistical error metrics for facade width and
 built-up area estimation, computed using tape-measured ground truth.
 
-| Error Metric  | Estimated Width Error (%)   | Estimated Built-Up Area Error (%)  |
-|:-------------:|:---------------------------:|-----------------------------------:|
+| Error Metric  | Estimated Width Error (%)   | Estimated Built-Up Area Error (%)   |
+|:-------------:|:---------------------------:|:-----------------------------------:|
 | Mean error (μₑ) | 2.054 | 3.240 |
 | Standard deviation error (σₑ) | 1.327 | 2.237 |
 | Maximum error (eₘₐₓ) | 4.4 | 7.424 |
