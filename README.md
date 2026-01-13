@@ -19,7 +19,7 @@ depth sensor. The pipeline integrates Grounding DINO for building detection,
 the Segment Anything Model (SAM) for facade segmentation, and geometric facade
 width estimation to compute the final built-up area.
 
-![Architecture of the Built-Up Area Estimation Module](architecture_pipeline.svg)
+![Architecture of the Built-Up Area Estimation Module](architecture_pipeline.png)
 
 
 
