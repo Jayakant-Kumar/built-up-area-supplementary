@@ -7,16 +7,21 @@ This repository contains the supplementary material associated with the paper:
 submitted to *IEEE Sensors Letters*.
 
 ---
-
 ## Introduction and Method Overview
 
 This repository provides supplementary material supporting a vision-based
 approach for estimating the built-up (footprint) area of buildings from
-handheld RGB-D data. The proposed pipeline processes images acquired from a
+handheld RGB-D data. The proposed pipeline processes images acquired using a
 handheld RGB camera and a synchronized Time-of-Flight (ToF) depth sensor, and
 integrates open-vocabulary object detection, prompt-based segmentation, and
-geometric reasoning to enable accurate, automated facade measurement without
-custom training or specialized surveying equipment.
+geometric reasoning to obtain reliable facade measurements.
+
+Despite recent advances, existing methods primarily rely on aerial or satellite
+imagery and estimate built-up area from roof projections, which may include
+**roof overhangs or architectural extensions**. In contrast, the proposed
+street-level RGB-D approach directly measures facade dimensions at ground
+level, enabling estimation of the true structural built-up area without custom
+training or specialized surveying equipment.
 
 ---
 
