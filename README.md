@@ -46,8 +46,8 @@ visibility of structural features, enabling accurate facade segmentation at an
 approximate stand-off distance of 15 m.
 
 **Ground Truth Area:** 183.885 m²  
-**Estimated Built-Up Area:** 192.286 m²  
-**Relative Error:** 4.568 %
+**Estimated Built-Up Area:** 192.30 m²  
+**Relative Error:** 4.576 %
 
 ![Built-up area estimation results of the building](Built_Up_Area_Gen.png)
 
