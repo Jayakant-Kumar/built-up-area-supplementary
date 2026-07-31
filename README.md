@@ -61,9 +61,9 @@ with respect to tape-measured ground truth.
 
 | Error Metric | Estimated Width Error (%) | Estimated Built-Up Area Error (%) |
 |:------------:|:-------------------------:|:---------------------------------:|
-| Mean error (μₑ) | 2.054 | 3.240 |
-| Standard deviation error (σₑ) | 1.327 | 2.237 |
-| Maximum error (eₘₐₓ) | 4.4 | 7.424 |
+| Mean error (μₑ) | 2.298 | 3.469 |
+| Standard deviation error (σₑ) | 1.610 | 2.354 |
+| Maximum error (eₘₐₓ) | 6.506 | 7.424 |
 
 ---
 
